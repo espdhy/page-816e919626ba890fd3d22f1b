@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bab0b61849022a5dd3ef25aa",
+  "owner": "espdhy",
+  "repo": "page-816e919626ba890fd3d22f1b",
+  "title": "豌豆",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "816e919626ba890fd3d22f1b",
+      "a": "豌豆",
+      "b": "机场官网线路发布页",
+      "entity": "豌豆",
+      "brand": "豌豆",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7b8229a29ebcaac6a32ab501d3cca585d38d7e86913679cad77b170053e8c0a8",
+      "content": {
+        "primary_entity": "豌豆",
+        "keyword1": "豌豆",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，桌面端、移动端与路由器各有对应订阅方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对比三档套餐后按设备数量与流量需求选择，再依客户端文档导入订阅。",
+          "AI_CLOSING_TITLE": "选对套餐，配好订阅",
+          "AI_DESCRIPTION": "，豌豆提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备在线需求。旗舰版含 IPLC 专线游戏加速与全节点流媒体解锁，团队版面向多设备与定制路由场景。按客户端文档配置订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。同一时间超出数量会导致新设备无法连接，按需选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，多设备与高流量场景建议旗舰版或团队版。",
+          "AI_FAQ_ANSWER_3": "各档套餐按年付均有优惠：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付更划算。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，对延迟敏感的游戏和流媒体场景更合适。",
+          "AI_FAQ_ANSWER_5": "客户端按设备系统选择，订阅配置方法以客户端文档为准。桌面端、移动端与路由器各有对应导入方式，配置前先确认套餐设备数量是否满足。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时连接多少台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "按年付比按月付便宜多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版相比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_5": "订阅如何导入到客户端？",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FEATURES_INTRO": "从套餐梯度、设备数量和订阅周期三个角度了解豌豆订阅选择。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合轻量使用，旗舰版 300GB 兼顾多设备，团队版 1000GB 面向高流量场景。",
+          "AI_FEATURE_TEXT_2": "在线设备数从 3 台到 20 台逐档提升，家庭或个人选基础版与旗舰版，多设备团队选团队版。",
+          "AI_FEATURE_TEXT_3": "三档均提供按年付方案，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，按周期选择更灵活。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "按需求选择套餐，确认设备适配要求，再依客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "豌豆提供基础版、旗舰版与团队版三档订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备在线需求，支持流媒体解锁与专线游戏加速。",
+          "AI_HERO_SUBTITLE": "三档套餐按需选，订阅配置简单。",
+          "AI_HIGHLIGHT_1": "三档套餐梯度选择",
+          "AI_HIGHLIGHT_2": "设备数量灵活匹配",
+          "AI_HIGHLIGHT_3": "按年付方案更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按流量需求、在线设备数量与是否需要专线游戏加速，从三档套餐中选出最接近的一档。",
+          "AI_STEP_TEXT_2": "确认常用设备系统，检查套餐支持的同时在线数量是否覆盖日常使用场景。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅信息，在对应设备上完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "豌豆订阅套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "svlli.cn",
+    "host": "svlli.cn"
+  },
+  "file_hashes": {
+    "index.html": "b9c8d6ee553016a26362825970e03c59a5a9ba551b6ede95811467d4e303920d",
+    "sitemap.xml": "12547a861d0d2c9cbc6709a14cec0628bd5de0375da9383551fac9103ff64cb0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b3f0dbe50e076e7d01ad2c6e841c0676be0c51ebb8de644034194f0ae992b55b",
+    "robots.txt": "7585278fd677287808deb452f886ff27bf8c6d392ad914b670d01a9000e0f5fc",
+    "cb9847400c2b9783b01f2548dc3c9bf9.txt": "11fa80d5383885431c53ae1a82f7d334a794153ce95f3c261af18acf4d1b5f20"
+  },
+  "revision": "06e6f7a5748a90df247edc4c390c9c0db338bb462fbd0aa1b0029d816ea0240f"
+}
